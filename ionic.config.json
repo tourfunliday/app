@@ -1,0 +1,8 @@
+{
+  "name": "tourfunliday",
+  "app_id": "ff764301",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
